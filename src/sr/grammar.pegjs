@@ -132,7 +132,7 @@ ps151_bcv
     { return {"type": "bcv", "value": [val_1, {"type": "v", "value": [val_2], "indices": [val_2.indices[0], val_2.indices[1]]}], "indices": [peg$savedPos, peg$currPos - 1]} }
 
 v_letter
-  = v_explicit? val:integer sp !( "ff" ) [aаб]i ![a-z]
+  = v_explicit? val:integer sp !( "ff" ) [a-e] ![a-z]
     { return {"type": "v", "value": [val], "indices": [peg$savedPos, peg$currPos - 1]} }
 
 v
@@ -141,11 +141,11 @@ v
 
 /* BCV helpers */
 c_explicit
-  = sp ( "поглавља"i / "глава"i ) sp
+  = sp ( "poglavlje" ) sp
     { return {"type": "c_explicit"} }
 
 v_explicit
-  = sp ( "стих"i ( "ови"i / ""i ) ) ![a-z] sp
+  = sp ( "stih" ) ![a-z] sp
     { return {"type": "v_explicit"} }
 
 cv_sep
@@ -156,7 +156,7 @@ cv_sep_weak
 
 /* The opening regexp is overwritten during post-processing to allow flexibility on including the comma. */
 sequence_sep
-  = ([,;/:&\-\u2013\u2014~] / "." !(sp "." sp ".") / "и"i / space)+
+  = ([,;/:&\-\u2013\u2014~] / "." !(sp "." sp ".") / "i" / space)+
     { return "" }
 
 range_sep

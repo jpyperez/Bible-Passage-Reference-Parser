@@ -1,36 +1,32 @@
-1Chr	Прва Паралипоменону
-1Chr	1. Паралипоменону
-1Chr	I. Паралипоменону
-1Chr	1 Паралипоменону
-1Chr	I Паралипоменону
-1Chr	Прва дневника
-1Chr	Прва хроника
-1Chr	1. дневника
-1Chr	I. дневника
-1Chr	1 Дневника
-1Chr	1 дневника
-1Chr	1. хроника
-1Chr	I дневника
-1Chr	I. хроника
-1Chr	1 хроника
-1Chr	I хроника
-1Chr	1 хрон
-1Chr	1 Дн
+1Chr	Prva Dnevnika
+1Chr	1. Dnevnika
+1Chr	I. Dnevnika
+1Chr	1 Dnevnika
+1Chr	I Dnevnika
+1Chr	Prva Dnev
+1Chr	1. Dnev
+1Chr	I. Dnev
+1Chr	1 Dnev
+1Chr	I Dnev
 1Chr	1Chr
-1Cor	Прва посланица Коринћанима
-1Cor	1. посланица Коринћанима
-1Cor	I. посланица Коринћанима
-1Cor	1 посланица Коринћанима
-1Cor	I посланица Коринћанима
-1Cor	Прва Коринћанима
-1Cor	1. Коринћанима
-1Cor	I. Коринћанима
-1Cor	1 Коринћанима
-1Cor	I Коринћанима
-1Cor	1 Кор
+1Cor	Prva Korincanima
+1Cor	Prva Korinćanima
+1Cor	1. Korincanima
+1Cor	1. Korinćanima
+1Cor	I. Korincanima
+1Cor	I. Korinćanima
+1Cor	1 Korincanima
+1Cor	1 Korinćanima
+1Cor	I Korincanima
+1Cor	I Korinćanima
+1Cor	Prva Kor
+1Cor	1. Kor
+1Cor	I. Kor
+1Cor	1 Kor
+1Cor	I Kor
 1Cor	1Cor
-1Esd	Прва Јездрина
-1Esd	Прва Ездрина
+1Esd	Prva Јездрина
+1Esd	Prva Ездрина
 1Esd	1. Јездрина
 1Esd	I. Јездрина
 1Esd	1 Јездрина
@@ -41,54 +37,35 @@
 1Esd	I Ездрина
 1Esd	1 Јез
 1Esd	1Esd
-1John	Прва посланица Јованова
-1John	1. посланица Јованова
-1John	I. посланица Јованова
-1John	1 посланица Јованова
-1John	I посланица Јованова
-1John	Прва Јованова
-1John	1. Јованова
-1John	I. Јованова
-1John	1 Јованова
-1John	I Јованова
+1John	Prva Jovanova
+1John	1. Jovanova
+1John	I. Jovanova
+1John	1 Jovanova
+1John	I Jovanova
+1John	Prva Jov
+1John	1. Jov
+1John	I. Jov
+1John	1 Jov
 1John	1John
-1John	1 Јн
-1Kgs	Трећом краљевства
-1Kgs	Трећа краљевства
-1Kgs	Трећом краљевима
-1Kgs	III. краљевства
-1Kgs	Прва о царевима
-1Kgs	Трећа краљевима
-1Kgs	III краљевства
-1Kgs	III. краљевима
-1Kgs	1. о царевима
-1Kgs	3. краљевства
-1Kgs	I. о царевима
-1Kgs	III краљевима
-1Kgs	1 о царевима
-1Kgs	3 краљевства
-1Kgs	3. краљевима
-1Kgs	I о царевима
-1Kgs	Прва краљева
-1Kgs	3 краљевима
-1Kgs	Прва Царева
-1Kgs	1. краљева
-1Kgs	I. краљева
-1Kgs	1 краљева
-1Kgs	1. Царева
-1Kgs	I краљева
-1Kgs	I. Царева
-1Kgs	1 Царева
-1Kgs	I Царева
-1Kgs	1 Цар
+1John	I Jov
+1Kgs	Prva Carevima
+1Kgs	1. Carevima
+1Kgs	I. Carevima
+1Kgs	1 Carevima
+1Kgs	I Carevima
+1Kgs	Prva Car
+1Kgs	1. Car
+1Kgs	I. Car
+1Kgs	1 Car
+1Kgs	I Car
 1Kgs	1Kgs
-1Macc	Прва Макабејаца
-1Macc	Прва Макавејска
+1Macc	Prva Макабејаца
+1Macc	Prva Макавејска
 1Macc	1. Макабејаца
 1Macc	1. Макавејска
 1Macc	I. Макабејаца
 1Macc	I. Макавејска
-1Macc	Прва Макавеја
+1Macc	Prva Макавеја
 1Macc	1 Макабејаца
 1Macc	1 Макавејска
 1Macc	I Макабејаца
@@ -99,88 +76,79 @@
 1Macc	I Макавеја
 1Macc	1Macc
 1Macc	1 Мк
-1Pet	Прва посланица Петрова
-1Pet	1. посланица Петрова
-1Pet	I. посланица Петрова
-1Pet	1 посланица Петрова
-1Pet	I посланица Петрова
-1Pet	Прва Петрова
-1Pet	1. Петрова
-1Pet	I. Петрова
-1Pet	1 Петрова
-1Pet	I Петрова
-1Pet	1 Петр
-1Pet	1 Пет
+1Pet	Prva Petrova
+1Pet	1. Petrova
+1Pet	I. Petrova
+1Pet	1 Petrova
+1Pet	I Petrova
+1Pet	Prva Pet
+1Pet	1. Pet
+1Pet	I. Pet
+1Pet	1 Pet
+1Pet	I Pet
 1Pet	1Pet
-1Sam	Прва Самуилова
-1Sam	Прва краљевима
-1Sam	1. Самуилова
-1Sam	1. краљевима
-1Sam	I. Самуилова
-1Sam	I. краљевима
-1Sam	1 Самуилова
-1Sam	1 краљевима
-1Sam	I Самуилова
-1Sam	I краљевима
-1Sam	1 Сам
+1Sam	Prva Samuilova
+1Sam	1. Samuilova
+1Sam	I. Samuilova
+1Sam	1 Samuilova
+1Sam	I Samuilova
+1Sam	Prva Sam
+1Sam	1. Sam
+1Sam	I. Sam
+1Sam	1 Sam
+1Sam	I Sam
 1Sam	1Sam
-1Thess	Прва посланица Солуњанима
-1Thess	1. посланица Солуњанима
-1Thess	I. посланица Солуњанима
-1Thess	1 посланица Солуњанима
-1Thess	I посланица Солуњанима
-1Thess	Прва Солуњанима
-1Thess	1. Солуњанима
-1Thess	I. Солуњанима
-1Thess	1 Солуњанима
-1Thess	I Солуњанима
+1Thess	Prva Solunjanima
+1Thess	1. Solunjanima
+1Thess	I. Solunjanima
+1Thess	1 Solunjanima
+1Thess	I Solunjanima
+1Thess	Prva Sol
+1Thess	1. Sol
 1Thess	1Thess
-1Thess	1 Сол
-1Tim	Прва посланица Тимотеју
-1Tim	1. посланица Тимотеју
-1Tim	I. посланица Тимотеју
-1Tim	1 посланица Тимотеју
-1Tim	I посланица Тимотеју
-1Tim	Прва Тимотеју
-1Tim	1. Тимотеју
-1Tim	I. Тимотеју
-1Tim	1 Тимотеју
-1Tim	I Тимотеју
-1Tim	1 Тим
+1Thess	I. Sol
+1Thess	1 Sol
+1Thess	I Sol
+1Tim	Prva Timotiju
+1Tim	1. Timotiju
+1Tim	I. Timotiju
+1Tim	1 Timotiju
+1Tim	I Timotiju
+1Tim	Prva Tim
+1Tim	1. Tim
+1Tim	I. Tim
+1Tim	1 Tim
+1Tim	I Tim
 1Tim	1Tim
-2Chr	Друга Паралипоменону
-2Chr	II. Паралипоменону
-2Chr	2. Паралипоменону
-2Chr	II Паралипоменону
-2Chr	2 Паралипоменону
-2Chr	Друга дневника
-2Chr	Друга хроника
-2Chr	II. дневника
-2Chr	2. дневника
-2Chr	II дневника
-2Chr	II. хроника
-2Chr	2 Дневника
-2Chr	2 дневника
-2Chr	2. хроника
-2Chr	II хроника
-2Chr	2 хроника
-2Chr	2 хрон
-2Chr	2 Дн
+2Chr	Druga Dnevnika
+2Chr	II. Dnevnika
+2Chr	2. Dnevnika
+2Chr	II Dnevnika
+2Chr	2 Dnevnika
+2Chr	Druga Dnev
+2Chr	II. Dnev
+2Chr	2. Dnev
+2Chr	II Dnev
+2Chr	2 Dnev
 2Chr	2Chr
-2Cor	Друга посланица Коринћанима
-2Cor	II. посланица Коринћанима
-2Cor	2. посланица Коринћанима
-2Cor	II посланица Коринћанима
-2Cor	2 посланица Коринћанима
-2Cor	Друга Коринћанима
-2Cor	II. Коринћанима
-2Cor	2. Коринћанима
-2Cor	II Коринћанима
-2Cor	2 Коринћанима
-2Cor	2 Кор
+2Cor	Druga Korincanima
+2Cor	Druga Korinćanima
+2Cor	II. Korincanima
+2Cor	II. Korinćanima
+2Cor	2. Korincanima
+2Cor	2. Korinćanima
+2Cor	II Korincanima
+2Cor	II Korinćanima
+2Cor	2 Korincanima
+2Cor	2 Korinćanima
+2Cor	Druga Kor
+2Cor	II. Kor
+2Cor	2. Kor
+2Cor	II Kor
+2Cor	2 Kor
 2Cor	2Cor
-2Esd	Друга Јездрина
-2Esd	Друга Ездрина
+2Esd	Druga Јездрина
+2Esd	Druga Ездрина
 2Esd	II. Јездрина
 2Esd	2. Јездрина
 2Esd	II Јездрина
@@ -191,50 +159,33 @@
 2Esd	2 Ездрина
 2Esd	2 Јез
 2Esd	2Esd
-2John	Друга посланица Јованова
-2John	II. посланица Јованова
-2John	2. посланица Јованова
-2John	II посланица Јованова
-2John	2 посланица Јованова
-2John	Друга Јованова
-2John	II. Јованова
-2John	2. Јованова
-2John	II Јованова
-2John	2 Јованова
+2John	Druga Jovanova
+2John	II. Jovanova
+2John	2. Jovanova
+2John	II Jovanova
+2John	2 Jovanova
+2John	Druga Jov
+2John	II. Jov
+2John	2. Jov
+2John	II Jov
+2John	2 Jov
 2John	2John
-2John	2 Јн
-2Kgs	Четврта краљевства
-2Kgs	Четврта краљевима
-2Kgs	Друга о царевима
-2Kgs	II. о царевима
-2Kgs	IV. краљевства
-2Kgs	2. о царевима
-2Kgs	4. краљевства
-2Kgs	II о царевима
-2Kgs	IV краљевства
-2Kgs	IV. краљевима
-2Kgs	Друга краљева
-2Kgs	2 о царевима
-2Kgs	4 краљевства
-2Kgs	4. краљевима
-2Kgs	IV краљевима
-2Kgs	Друга Царева
-2Kgs	4 краљевима
-2Kgs	II. краљева
-2Kgs	2. краљева
-2Kgs	II краљева
-2Kgs	II. Царева
-2Kgs	2 краљева
-2Kgs	2. Царева
-2Kgs	II Царева
-2Kgs	2 Царева
-2Kgs	2 Цар
+2Kgs	Druga Carevima
+2Kgs	II. Carevima
+2Kgs	2. Carevima
+2Kgs	II Carevima
+2Kgs	2 Carevima
+2Kgs	Druga Car
+2Kgs	II. Car
+2Kgs	2. Car
+2Kgs	II Car
+2Kgs	2 Car
 2Kgs	2Kgs
-2Macc	Друга Макабејаца
-2Macc	Друга Макавејска
+2Macc	Druga Макабејаца
+2Macc	Druga Макавејска
+2Macc	Druga Макавеја
 2Macc	II. Макабејаца
 2Macc	II. Макавејска
-2Macc	Друга Макавеја
 2Macc	2. Макабејаца
 2Macc	2. Макавејска
 2Macc	II Макабејаца
@@ -247,79 +198,73 @@
 2Macc	2 Макавеја
 2Macc	2Macc
 2Macc	2 Мк
-2Pet	Друга посланица Петрова
-2Pet	II. посланица Петрова
-2Pet	2. посланица Петрова
-2Pet	II посланица Петрова
-2Pet	2 посланица Петрова
-2Pet	Друга Петрова
-2Pet	II. Петрова
-2Pet	2. Петрова
-2Pet	II Петрова
-2Pet	2 Петрова
-2Pet	2 Петр
-2Pet	2 Пет
+2Pet	Druga Petrova
+2Pet	II. Petrova
+2Pet	2. Petrova
+2Pet	II Petrova
+2Pet	2 Petrova
+2Pet	Druga Pet
+2Pet	II. Pet
+2Pet	2. Pet
+2Pet	II Pet
+2Pet	2 Pet
 2Pet	2Pet
-2Sam	Друга Самуилова
-2Sam	Друга краљевима
-2Sam	II. Самуилова
-2Sam	II. краљевима
-2Sam	2. Самуилова
-2Sam	2. краљевима
-2Sam	II Самуилова
-2Sam	II краљевима
-2Sam	2 Самуилова
-2Sam	2 краљевима
-2Sam	2 Сам
+2Sam	Druga Samuilova
+2Sam	II. Samuilova
+2Sam	2. Samuilova
+2Sam	II Samuilova
+2Sam	2 Samuilova
+2Sam	Druga Sam
+2Sam	II. Sam
+2Sam	2. Sam
+2Sam	II Sam
+2Sam	2 Sam
 2Sam	2Sam
-2Thess	Друга посланица Солуњанима
-2Thess	II. посланица Солуњанима
-2Thess	2. посланица Солуњанима
-2Thess	II посланица Солуњанима
-2Thess	2 посланица Солуњанима
-2Thess	Друга Солуњанима
-2Thess	II. Солуњанима
-2Thess	2. Солуњанима
-2Thess	II Солуњанима
-2Thess	2 Солуњанима
+2Thess	Druga Solunjanima
+2Thess	II. Solunjanima
+2Thess	2. Solunjanima
+2Thess	II Solunjanima
+2Thess	2 Solunjanima
+2Thess	Druga Sol
+2Thess	II. Sol
+2Thess	2. Sol
 2Thess	2Thess
-2Thess	2 Сол
-2Tim	Друга посланица Тимотеју
-2Tim	II. посланица Тимотеју
-2Tim	2. посланица Тимотеју
-2Tim	II посланица Тимотеју
-2Tim	2 посланица Тимотеју
-2Tim	Друга Тимотеју
-2Tim	II. Тимотеју
-2Tim	2. Тимотеју
-2Tim	II Тимотеју
-2Tim	2 Тимотеју
-2Tim	2 Тим
+2Thess	II Sol
+2Thess	2 Sol
+2Tim	Druga Timotiju
+2Tim	II. Timotiju
+2Tim	2. Timotiju
+2Tim	II Timotiju
+2Tim	2 Timotiju
+2Tim	Druga Tim
+2Tim	II. Tim
+2Tim	2. Tim
+2Tim	II Tim
+2Tim	2 Tim
 2Tim	2Tim
-3John	Трећом посланица Јованова
-3John	Трећа посланица Јованова
-3John	III. посланица Јованова
-3John	III посланица Јованова
-3John	3. посланица Јованова
-3John	3 посланица Јованова
-3John	Трећом Јованова
-3John	Трећа Јованова
-3John	III. Јованова
-3John	III Јованова
-3John	3. Јованова
-3John	3 Јованова
+3John	Treca Jovanova
+3John	Treća Jovanova
+3John	III. Jovanova
+3John	III Jovanova
+3John	3. Jovanova
+3John	3 Jovanova
+3John	Treca Jov
+3John	Treća Jov
+3John	III. Jov
+3John	III Jov
+3John	3. Jov
+3John	3 Jov
 3John	3John
-3John	3 Јн
-3Macc	Трећом Макабејаца
-3Macc	Трећом Макавејска
-3Macc	Трећа Макабејаца
-3Macc	Трећа Макавејска
+3Macc	Treca Макабејаца
+3Macc	Treca Макавејска
+3Macc	Treća Макабејаца
+3Macc	Treća Макавејска
 3Macc	III. Макабејаца
 3Macc	III. Макавејска
-3Macc	Трећом Макавеја
 3Macc	III Макабејаца
 3Macc	III Макавејска
-3Macc	Трећа Макавеја
+3Macc	Treca Макавеја
+3Macc	Treća Макавеја
 3Macc	3. Макабејаца
 3Macc	3. Макавејска
 3Macc	III. Макавеја
@@ -330,9 +275,12 @@
 3Macc	3 Макавеја
 3Macc	3Macc
 3Macc	3 Мк
-4Macc	Четврта Макабејаца
-4Macc	Четврта Макавејска
-4Macc	Четврта Макавеја
+4Macc	Cetvrta Макабејаца
+4Macc	Cetvrta Макавејска
+4Macc	Četvrta Макабејаца
+4Macc	Četvrta Макавејска
+4Macc	Cetvrta Макавеја
+4Macc	Četvrta Макавеја
 4Macc	IV. Макабејаца
 4Macc	IV. Макавејска
 4Macc	4. Макабејаца
@@ -347,245 +295,218 @@
 4Macc	4 Макавеја
 4Macc	4Macc
 4Macc	4 Мк
-Acts	Дела Апостолска
+Acts	Djela apostolska
 Acts	Acts
-Acts	Дела
-Acts	Дап
+Acts	Dela
 Amos	Amos
-Amos	Амос
-Amos	Ам
 Bar	Барух
 Bar	Варух
 Bar	Bar
 Bar	Вар
 Bel	Bel
-Col	Посланица Колошанима
-Col	Колошанима
+Col	Kolosanima
+Col	Kološanima
 Col	Col
-Col	Кол
-Dan	Данило
+Col	Kol
+Dan	Danilo
 Dan	Dan
-Dan	Дан
-Deut	Поновљени закони
-Deut	Пета Мојсијева
-Deut	5. Мојсијева
-Deut	V. Мојсијева
-Deut	5 Мојсијева
-Deut	V Мојсијева
-Deut	Пета Мојс
-Deut	5. Мојс
-Deut	V. Мојс
-Deut	5 Мојс
-Deut	V Мојс
+Deut	Peta Knjiga Mojsijeva
+Deut	5. Knjiga Mojsijeva
+Deut	V. Knjiga Mojsijeva
+Deut	5 Knjiga Mojsijeva
+Deut	V Knjiga Mojsijeva
+Deut	Peta Mojsijeva
+Deut	5. Mojsijeva
+Deut	V. Mojsijeva
+Deut	5 Mojsijeva
+Deut	V Mojsijeva
+Deut	Peta Moj
+Deut	5. Moj
+Deut	V. Moj
+Deut	5 Moj
+Deut	V Moj
 Deut	Deut
-Deut	Понз
-Eccl	Проповедник
+Eccl	Propovjednik
 Eccl	Eccl
-Eccl	Проп
+Eccl	Prop
 EpJer	Посланица Јеремијина
 EpJer	Писма Јеремије
 EpJer	EpJer
-Eph	Посланица Ефесцима
-Eph	Ефесцима
+Eph	Efescima
 Eph	Eph
-Eph	Еф
-Esth	Јестира
-Esth	Естер
+Eph	Ef
+Esth	Jestira
 Esth	Esth
-Esth	Јест
-Exod	Друга Мојсијева
-Exod	II. Мојсијева
-Exod	2. Мојсијева
-Exod	II Мојсијева
-Exod	2 Мојсијева
-Exod	Друга Мојс
-Exod	II. Мојс
-Exod	2. Мојс
-Exod	II Мојс
-Exod	Егзодус
-Exod	Излазак
-Exod	2 Мојс
+Esth	Jest
+Exod	Druga Knjiga Mojsijeva
+Exod	II. Knjiga Mojsijeva
+Exod	2. Knjiga Mojsijeva
+Exod	II Knjiga Mojsijeva
+Exod	2 Knjiga Mojsijeva
+Exod	Druga Mojsijeva
+Exod	II. Mojsijeva
+Exod	2. Mojsijeva
+Exod	II Mojsijeva
+Exod	2 Mojsijeva
+Exod	Druga Moj
+Exod	II. Moj
+Exod	2. Moj
+Exod	II Moj
+Exod	2 Moj
 Exod	Exod
-Exod	Изл
-Ezek	Језекиљ
+Ezek	Jezekilj
+Ezek	Jezek
 Ezek	Ezek
-Ezek	Јез
-Ezra	Јездра
-Ezra	Езрина
+Ezra	Jezdra
 Ezra	Ezra
-Ezra	Езр
-Gal	Посланица Галаћанима
-Gal	Посланица Галатима
-Gal	Галаћанима
-Gal	Галатима
+Ezra	Jezd
+Gal	Galatima
 Gal	Gal
-Gal	Гал
-Gen	Прва Мојсијева
-Gen	1. Мојсијева
-Gen	I. Мојсијева
-Gen	1 Мојсијева
-Gen	I Мојсијева
-Gen	Прва Мојс
-Gen	1. Мојс
-Gen	I. Мојс
-Gen	Постање
-Gen	1 Мојс
-Gen	I Мојс
-Gen	Пост
+Gen	Prva Knjiga Mojsijeva
+Gen	1. Knjiga Mojsijeva
+Gen	I. Knjiga Mojsijeva
+Gen	1 Knjiga Mojsijeva
+Gen	I Knjiga Mojsijeva
+Gen	Prva Mojsijeva
+Gen	1. Mojsijeva
+Gen	I. Mojsijeva
+Gen	1 Mojsijeva
+Gen	I Mojsijeva
+Gen	Prva Moj
+Gen	1. Moj
+Gen	I. Moj
+Gen	1 Moj
+Gen	I Moj
 Gen	Gen
 GkEsth	GkEsth
-Hab	Авакум
+Hab	Avakum
+Hab	Avak
 Hab	Hab
-Hab	Ав
-Hag	Агеј
+Hag	Agej
 Hag	Hag
-Hag	Аг
-Heb	Посланица Јеврејима
-Heb	Јеврејима
+Heb	Jevrejima
+Heb	Jevr
 Heb	Heb
-Heb	Јев
-Hos	Осија
-Hos	Хошеа
+Hos	Osija
 Hos	Hos
-Hos	Ос
-Isa	Исаија
+Hos	Os
+Isa	Isaija
 Isa	Isa
-Isa	Ис
-Jas	Посланица Јаковљева
-Jas	Јаковљева
-Jas	Јаковова
-Jas	Јаков
+Jas	Jakov
+Jas	Jak
 Jas	Jas
-Jas	Јак
 Jdt	Књига о Јудити
 Jdt	Јудита
 Jdt	Jdt
 Jdt	Јуд
-Jer	Јеремија
+Jer	Jeremija
 Jer	Jer
-Jer	Јер
 Job	Job
-Job	Јов
+Job	Jov
+Joel	Joilo
 Joel	Joel
-Joel	Јоил
-Joel	Јоиљ
-John	Јеванђеље по Јовану
-John	Еванђеље по Јовану
-John	Јован
+Joel	Joil
+John	Jovan
 John	John
-John	Јн
 Jonah	Jonah
-Jonah	Јона
-Josh	Исус Навин
+Jonah	Jona
+Josh	Isus Navin
 Josh	Josh
-Josh	ИНав
-Jude	Посланица Јудина
-Jude	Јаковљевог
-Jude	Јудина
+Josh	Isu
+Jude	Juda
 Jude	Jude
-Jude	Јуде
-Jude	Јд
-Judg	Судија
-Judg	Судије
+Judg	Sudije
 Judg	Judg
-Judg	Суд
-Lam	Плач Јеремијин
-Lam	Плач
+Judg	Sud
+Lam	Plac Jeremijin
+Lam	Plač Jeremijin
+Lam	Plac
+Lam	Plač
 Lam	Lam
-Lev	Трећом Мојсијева
-Lev	Трећа Мојсијева
-Lev	III. Мојсијева
-Lev	III Мојсијева
-Lev	3. Мојсијева
-Lev	3 Мојсијева
-Lev	Трећом Мојс
-Lev	Трећа Мојс
-Lev	III. Мојс
-Lev	III Мојс
-Lev	Левитска
-Lev	3. Мојс
-Lev	3 Мојс
+Lev	Treca Knjiga Mojsijeva
+Lev	Treća Knjiga Mojsijeva
+Lev	III. Knjiga Mojsijeva
+Lev	III Knjiga Mojsijeva
+Lev	3. Knjiga Mojsijeva
+Lev	3 Knjiga Mojsijeva
+Lev	Treca Mojsijeva
+Lev	Treća Mojsijeva
+Lev	III. Mojsijeva
+Lev	III Mojsijeva
+Lev	3. Mojsijeva
+Lev	3 Mojsijeva
+Lev	Treca Moj
+Lev	Treća Moj
+Lev	III. Moj
+Lev	III Moj
+Lev	3. Moj
+Lev	3 Moj
 Lev	Lev
-Lev	Лев
-Luke	Јеванђеље по Луки
-Luke	Еванђеље по Луки
+Luke	Luka
 Luke	Luke
-Luke	Лукa
-Luke	Лука
-Luke	Лк
-Mal	Малахија
+Mal	Malahija
 Mal	Mal
-Mal	Мал
-Mark	Јеванђеље по Марку
-Mark	Еванђеље по Марку
-Mark	Маркo
-Mark	Марко
+Mark	Marko
 Mark	Mark
-Mark	Мк
-Matt	Јеванђеље по Матеју
-Matt	Еванђеље по Матеју
-Matt	Матеја
-Matt	Матеј
+Mark	Mar
+Matt	Matej
 Matt	Matt
-Matt	Мт
-Mic	Михеј
+Matt	Mat
+Mic	Mihej
 Mic	Mic
-Mic	Мих
-Nah	Наум
+Mic	Mih
+Nah	Naum
 Nah	Nah
-Neh	Немија
+Neh	Nemija
 Neh	Neh
-Neh	Нем
-Num	Четврта Мојсијева
-Num	IV. Мојсијева
-Num	4. Мојсијева
-Num	IV Мојсијева
-Num	Четврта Мојс
-Num	4 Мојсијева
-Num	IV. Мојс
-Num	4. Мојс
-Num	IV Мојс
-Num	Бројеви
-Num	4 Мојс
+Neh	Nem
+Num	Cetvrta Knjiga Mojsijeva
+Num	Četvrta Knjiga Mojsijeva
+Num	IV. Knjiga Mojsijeva
+Num	4. Knjiga Mojsijeva
+Num	IV Knjiga Mojsijeva
+Num	4 Knjiga Mojsijeva
+Num	Cetvrta Mojsijeva
+Num	Četvrta Mojsijeva
+Num	IV. Mojsijeva
+Num	4. Mojsijeva
+Num	IV Mojsijeva
+Num	4 Mojsijeva
+Num	Cetvrta Moj
+Num	Četvrta Moj
+Num	IV. Moj
+Num	4. Moj
+Num	IV Moj
+Num	4 Moj
 Num	Num
-Num	Бр
-Obad	Авдија
-Obad	Авдије
+Obad	Avdija
 Obad	Obad
-Obad	Авд
-Phil	Посланица Филипљанима
-Phil	Филипљанима
+Obad	Avd
+Phil	Filibljanima
 Phil	Phil
-Phil	Флп
-Phlm	Посланица Филимону
-Phlm	Филимону
+Phil	Fil
+Phlm	Filimonu
+Phlm	Filim
 Phlm	Phlm
-Phlm	Фил
 PrAzar	PrAzar
 PrMan	Молитва Манасијина
 PrMan	PrMan
-Prov	Приче Соломонове
-Prov	Приче Соломунове
-Prov	Изреке
+Prov	Price Solomunove
+Prov	Priče Solomunove
+Prov	Price
+Prov	Priče
 Prov	Prov
-Prov	Пр
-Ps	Псалми Давидови
-Ps	Псалам
-Ps	Псалми
+Ps	Psalmi
+Ps	Psal
 Ps	Ps
-Ps	Пс
-Rev	Откривење Јованово
-Rev	Откровење Јованово
-Rev	Откривење
+Rev	Otkrivenje
+Rev	Otkr
 Rev	Rev
-Rev	Отк
-Rom	Посланица Римљанима
-Rom	Римљанима
+Rom	Rimljanima
+Rom	Rim
 Rom	Rom
-Rom	Рим
+Ruth	Ruta
 Ruth	Ruth
-Ruth	Рута
-Ruth	Рут
 SgThree	SgThree
 Sir	Премудрости Исуса сина Сирахова
 Sir	Еклезијастикус
@@ -593,15 +514,13 @@ Sir	Сирина
 Sir	Sir
 Sir	ИсС
 Sir	Сир
-Song	Песма над песмама
-Song	Песма Соломонова
+Song	Pjesma nad pjesmama
+Song	Pesma
 Song	Song
-Song	Пнп
 Sus	Sus
-Titus	Посланица Титу
 Titus	Titus
-Titus	Титу
-Titus	Тит
+Titus	Titu
+Titus	Tit
 Tob	Књига Товијина
 Tob	Тобија
 Tob	Товит
@@ -612,10 +531,9 @@ Wis	Мудрости Соломонове
 Wis	Мудрости
 Wis	Прем Сол
 Wis	Wis
-Zech	Захарија
+Zech	Zaharija
 Zech	Zech
-Zech	Зах
-Zeph	Софонија
-Zeph	Софоније
+Zech	Zah
+Zeph	Sofonija
 Zeph	Zeph
-Zeph	Соф
+Zeph	Sof

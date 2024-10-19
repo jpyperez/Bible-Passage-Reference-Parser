@@ -343,7 +343,7 @@ bcv_parser::regexps.get_books = (include_apocrypha, case_sensitive) ->
 	,
 		osis: ["Mark"]
 		regexp: ///(^|#{bcv_parser::regexps.pre_book})(
-		(?:M(?:ar(?:cos|k)|r?c))
+		(?:M(?:ar(?:cos|\\.|k)?|c|rc))
 			)(?:(?=[\d\s\xa0.:,;\x1e\x1f&\(\)\uff08\uff09\[\]/"'\*=~\-\u2013\u2014])|$)///gi
 	,
 		osis: ["Luke"]
@@ -383,12 +383,12 @@ bcv_parser::regexps.get_books = (include_apocrypha, case_sensitive) ->
 	,
 		osis: ["2Cor"]
 		regexp: ///(^|[^0-9A-Za-zªµºÀ-ÖØ-öø-ɏḀ-ỿⱠ-ⱿꜢ-ꞈꞋ-ꞎꞐ-ꞓꞠ-Ɦꟸ-ꟿ])(
-		(?:2(?:[\s\xa0]*Cor[i\xED]ntios|[\s\xa0]*Cor?|Cor)|(?:2[ao]|II)[\s\xa0]*Cor[i\xED]ntios|(?:2[ao]?|II)\.[\s\xa0]*Cor[i\xED]ntios|Segund[ao][\s\xa0]*Cor[i\xED]ntios)
+		(?:2(?:[\s\xa0]*Cor[i\xED]ntios|[\s\xa0]*Cor?|Cor)|(?:2[ao]|II)[\s\xa0]*Cor[i\xED]ntios|(?:2[ao]?|II)\.[\s\xa0]*Cor[i\xED]ntios|Segund[ao][\s\xa0]*Cor[i\xED]ntios|II[\s\xa0]*Cor\.|II[\s\xa0]*Cor)
 			)(?:(?=[\d\s\xa0.:,;\x1e\x1f&\(\)\uff08\uff09\[\]/"'\*=~\-\u2013\u2014])|$)///gi
 	,
 		osis: ["1Cor"]
 		regexp: ///(^|[^0-9A-Za-zªµºÀ-ÖØ-öø-ɏḀ-ỿⱠ-ⱿꜢ-ꞈꞋ-ꞎꞐ-ꞓꞠ-Ɦꟸ-ꟿ])(
-		(?:1(?:[\s\xa0]*Cor[i\xED]ntios|[\s\xa0]*Cor?|Cor)|(?:1[ao]|I)[\s\xa0]*Cor[i\xED]ntios|(?:1[ao]?|I)\.[\s\xa0]*Cor[i\xED]ntios|Primeir[ao][\s\xa0]*Cor[i\xED]ntios)
+		(?:1(?:[\s\xa0]*Cor[i\xED]ntios|[\s\xa0]*Cor?|Cor)|(?:1[ao]|I)[\s\xa0]*Cor[i\xED]ntios|(?:1[ao]?|I)\.[\s\xa0]*Cor[i\xED]ntios|Primeir[ao][\s\xa0]*Cor[i\xED]ntios|I[\s\xa0]*Cor\.|I[\s\xa0]*Cor)
 			)(?:(?=[\d\s\xa0.:,;\x1e\x1f&\(\)\uff08\uff09\[\]/"'\*=~\-\u2013\u2014])|$)///gi
 	,
 		osis: ["Gal"]

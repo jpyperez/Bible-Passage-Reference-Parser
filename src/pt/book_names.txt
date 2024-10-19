@@ -32,7 +32,7 @@
 1Cor	1a. Coríntios
 1Cor	1o. Corintios
 1Cor	1o. Coríntios
-1Cor	1. Corintios
+1Cor	1. Corintioss
 1Cor	1. Coríntios
 1Cor	1a Corintios
 1Cor	1a Coríntios
@@ -45,6 +45,9 @@
 1Cor	I Corintios
 1Cor	I Coríntios
 1Cor	1 Cor
+1Cor	1 Cor.
+1Cor	I Cor
+1Cor	I Cor.
 1Cor	1 Co
 1Cor	1Cor
 1Esd	Primeira Esdras
@@ -243,6 +246,9 @@
 2Cor	2 Corintios
 2Cor	2 Coríntios
 2Cor	2 Cor
+1Cor	2 Cor.
+1Cor	2 Cor
+1Cor	2 Cor.
 2Cor	2 Co
 2Cor	2Cor
 2Esd	Segunda Esdras
@@ -616,6 +622,8 @@ Mal	Ml
 Mark	Marcos
 Mark	Mark
 Mark	Mrc
+Mark	Mar.
+Mark	Mar
 Mark	Mc
 Matt	Mateus
 Matt	Matt

@@ -3724,12 +3724,12 @@
       {
         osis: ["2Chr"],
         regexp:
-          /(^|[^0-9A-Za-zªµºÀ-ÖØ-öø-ɏḀ-ỿⱠ-ⱿꜢ-ꞈꞋ-ꞎꞐ-ꞓꞠ-Ɦꟸ-ꟿ])((?:2[\s\xa0]*Cr[o\xF4]nicas)|(?:2(?:[\s\xa0]*Cr[o\xF4]n|Chr|[\s\xa0]*Cr[o\xF4]?)|(?:2[ao]|II)[\s\xa0]*Cr[o\xF4]nicas|(?:2[ao]?|II)\.[\s\xa0]*Cr[o\xF4]nicas|Segund[ao][\s\xa0]*Cr[o\xF4]nicas))(?:(?=[\d\s\xa0.:,;\x1e\x1f&\(\)\uff08\uff09\[\]\/"'\*=~\-\u2013\u2014])|$)/gi,
+          /(^|[^0-9A-Za-zªµºÀ-ÖØ-öø-ɏḀ-ỿⱠ-ⱿꜢ-ꞈꞋ-ꞎꞐ-ꞓꞠ-Ɦꟸ-ꟿ])((?:Segund[ao]|2[ao]|II|2)\.? ?(?:Cr[oôó]nicas|Cr[oôó]n|Cr[oôó]|Cr|Chr))(?:(?=[\d\s\xa0.:,;\x1e\x1f&\(\)\uff08\uff09\[\]\/"'\*=~\-\u2013\u2014])|$)/gi,
       },
       {
         osis: ["1Chr"],
         regexp:
-          /(^|[^0-9A-Za-zªµºÀ-ÖØ-öø-ɏḀ-ỿⱠ-ⱿꜢ-ꞈꞋ-ꞎꞐ-ꞓꞠ-Ɦꟸ-ꟿ])((?:1[\s\xa0]*Cr[o\xF4]nicas)|(?:1(?:[\s\xa0]*Cr[o\xF4]n|Chr|[\s\xa0]*Cr[o\xF4]?)|(?:1[ao]|I)[\s\xa0]*Cr[o\xF4]nicas|(?:1[ao]?|I)\.[\s\xa0]*Cr[o\xF4]nicas|Primeir[ao][\s\xa0]*Cr[o\xF4]nicas))(?:(?=[\d\s\xa0.:,;\x1e\x1f&\(\)\uff08\uff09\[\]\/"'\*=~\-\u2013\u2014])|$)/gi,
+          /(^|[^0-9A-Za-zªµºÀ-ÖØ-öø-ɏḀ-ỿⱠ-ⱿꜢ-ꞈꞋ-ꞎꞐ-ꞓꞠ-Ɦꟸ-ꟿ])((?:Primeir[ao]|1[ao]|I|1)\.? ?(?:Cr[oôó]nicas|Cr[oôó]n|Cr[oôó]|Cr|Chr))(?:(?=[\d\s\xa0.:,;\x1e\x1f&\(\)\uff08\uff09\[\]\/"'\*=~\-\u2013\u2014])|$)/gi,
       },
       {
         osis: ["Ezra"],
